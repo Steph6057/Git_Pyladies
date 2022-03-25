@@ -16,35 +16,36 @@ Pyladies is an international mentorship group with the ficus of helping women be
 
 * Lesson 4
 
- * (https://colab.research.google.com/drive/1I3sAFJRUD9FQSuR1L50uvuygU-avRSFl?usp=sharing)
- * Attempted, submitted for feedback
+  * (https://colab.research.google.com/drive/1I3sAFJRUD9FQSuR1L50uvuygU-avRSFl?usp=sharing)
+  * Attempted, submitted for feedback
 
 * Lesson 5
 
- * (https://lubojr.pythonanywhere.com/2021/pyladies-en-vienna-2021/beginners-en/tictactoe/)
- * Finished, submitted for feedback
+  * (https://lubojr.pythonanywhere.com/2021/pyladies-en-vienna-2021/beginners-en/tictactoe/)
+  * Finished, submitted for feedback
 
 * Lesson 6
 
- * (No homework assigned)
+  * (No homework assigned)
 
 * Lesson 7
 
- * (https://colab.research.google.com/drive/1GtkRD3VIDMonMBBXULTS5gVNZyofpOIt?usp=sharing)
- * Attempted, submitted for feedback
+  * (https://colab.research.google.com/drive/1GtkRD3VIDMonMBBXULTS5gVNZyofpOIt?usp=sharing)
+  * Attempted, submitted for feedback
 
 * Lesson 8
 
- * (https://colab.research.google.com/drive/1CvGGlb75sV04Tbln7i9bxBxWtTSvcIHq?usp=sharing)
- * Attempted, submitted for feedback
+  * (https://colab.research.google.com/drive/1CvGGlb75sV04Tbln7i9bxBxWtTSvcIHq?usp=sharing)
+  * Attempted, submitted for feedback
 
-Lesson 9 to 12
- * (No homework was assigned to the various lessons)
+* Lesson 9 to 12
+
+  * (No homework was assigned to the various lessons)
 
 * Lesson 13
 
- * (https://drive.google.com/file/d/1gJ4FdvmMwKSRr5D5k-idkvYoIs588HU-/view)
- * Finished, submitted for feedback
+  * (https://drive.google.com/file/d/1gJ4FdvmMwKSRr5D5k-idkvYoIs588HU-/view)
+  * Finished, submitted for feedback
 
 
 
