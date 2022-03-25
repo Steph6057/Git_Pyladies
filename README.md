@@ -6,5 +6,5 @@ Pyladies is an international mentorship group with the ficus of helping women be
 
 * Lesson 1
 
-This is the first **[Homework] (https://colab.research.google.com/drive/1h1h6qB_EDwtEJ7TFSu_lVqU-HCcP4AHN?usp=sharing)**.
-* Finished, submitteed and feedback given.
+My first homework [Homework] (https://colab.research.google.com/drive/1h1h6qB_EDwtEJ7TFSu_lVqU-HCcP4AHN?usp=sharing).
+* Finished, submitted and feedback given.
