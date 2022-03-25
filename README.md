@@ -4,6 +4,10 @@ Pyladies Vienna python beginners course (first repository).
 
 Pyladies is an international mentorship group with the ficus of helping women become active in python open-source community.
 
+* Lesson 1
+
+  * (practised)
+
 * Lesson 2
 
   * (https://colab.research.google.com/drive/1h1h6qB_EDwtEJ7TFSu_lVqU-HCcP4AHN?usp=sharing).
@@ -21,7 +25,7 @@ Pyladies is an international mentorship group with the ficus of helping women be
 
 * Lesson 5
 
-  * (https://lubojr.pythonanywhere.com/2021/pyladies-en-vienna-2021/beginners-en/tictactoe/)
+  * (C:\Users\hp\Desktop\Pyladies.Vienna\tic_toe (1).py)
   * Finished, submitted for feedback
 
 * Lesson 6
@@ -44,7 +48,7 @@ Pyladies is an international mentorship group with the ficus of helping women be
 
 * Lesson 13
 
-  * (https://drive.google.com/file/d/1gJ4FdvmMwKSRr5D5k-idkvYoIs588HU-/view)
+  * (C:\Users\hp\Desktop\Pyladies.Vienna\steph-game.py)
   * Finished, submitted for feedback
 
 
