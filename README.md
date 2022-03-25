@@ -48,7 +48,7 @@ Pyladies is an international mentorship group with the ficus of helping women be
 
 * Lesson 13
 
-  /* [Final Project](https://final project.com).
+  * [Final Project](https://final project.com).
   * Finished, submitted for feedback
 
 
