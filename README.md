@@ -48,7 +48,7 @@ Pyladies is an international mentorship group with the ficus of helping women be
 
 * Lesson 13
 
-  * 
+  * (https://github.com/Steph6057/Git_Pyladies/blob/master/steph-game.py)
   * Finished, submitted for feedback
 
 
