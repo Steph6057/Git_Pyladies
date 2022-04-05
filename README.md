@@ -25,7 +25,7 @@ Pyladies is an international mentorship group with the ficus of helping women be
 
 * Lesson 5
 
-  * (https://github.com/Steph6057/Git_Pyladies/blob/master/tic_toe%20(1).py)
+  * (https://github.com/Steph6057/Git_Pyladies/blob/main/tic_toe%20(1).py)
   * Finished, submitted for feedback
 
 * Lesson 6
