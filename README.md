@@ -15,7 +15,7 @@ Pyladies is an international mentorship group with the ficus of helping women be
    
 * Lesson 3 
 
-  * (https://colab.research.google.com/drive/12VNAm0viO7CXDSi8-mRiGCNSpZQzQd5K?usp=sharing)
+  * (https://github.com/Steph6057/Git_Pyladies/blob/main/step_homework_3.ipynb)
   * Finished, submitted and feedback given.
 
 * Lesson 4
