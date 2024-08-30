@@ -1,6 +1,6 @@
 # Git_Pyladies
 
-Pyladies Vienna python beginners course (first repository).
+Pyladies Vienna python beginners course [linkedIn](https://www.linkedin.com/in/stephanie-omoja-257966230/).
 
 Pyladies is an international mentorship group with the focus of helping women become active in python open-source community.
 
