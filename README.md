@@ -52,7 +52,7 @@ Pyladies is an international mentorship group with the focus of helping women be
   * Finished, submitted for feedback
 * lesson 14
   
-   * [LinkedIn](https://www.linkedin/.com/in/stephanie-omoja)
+   * [LinkedIn](https://www.linkedin/.com/in/stephanie-omoja/)
   
 
 
