@@ -50,7 +50,10 @@ Pyladies is an international mentorship group with the focus of helping women be
 
   * (https://github.com/Steph6057/Git_Pyladies/blob/master/steph-game.py)
   * Finished, submitted for feedback
-
+* lesson 14
+  
+   * [LinkedIn](https://www.linkedin/.com/in/stephanie-omoja)
+  
 
 
 
